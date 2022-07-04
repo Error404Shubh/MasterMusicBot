@@ -2,7 +2,7 @@
     "name": "MasterMusicBot ",
     "description": "An Music Bot For Telegram By Shubham.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "",
+    "repository": "https://github.com/Error404Shubh/MasterMusicBot",
     "stack": "container",
     "env": {
         "API_ID": {
