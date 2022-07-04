@@ -56,7 +56,7 @@ async def start_(client: Client, message: Message):
 @Client.on_message(commandpro(["/start", "/alive", "Shubham", "/repo"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        caption=f"""""",
+        caption=f"Welcome To Master Music bot... Developed By Shubham. ",
         reply_markup=InlineKeyboardMarkup(
      ),
   ) 
