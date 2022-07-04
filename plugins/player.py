@@ -87,7 +87,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
     draw.text((190, 630), f"Views: {views}", (255, 255, 255), font=font)
     draw.text(
         (190, 670),
-        f"Powered By: Sumit Yadav (@Simple_Mundaa)",
+        f"Powered By: Shubham Singh Rajput ",
         (255, 255, 255),
         font=font,
     )
