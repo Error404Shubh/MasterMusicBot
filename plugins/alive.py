@@ -34,7 +34,7 @@ async def _human_time_duration(seconds):
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/3752041b671e0afc6ada2.jpg",
+        photo=f"https://telegra.ph/bot-07-04-7",
         caption=f"""**━━━━━━━━━━━━━━━━━
 ✨ Hello I am very fast and Simple Music player bot  Developed By Shubham
 ━━━━━━━━━━━━━━━━━━━**""",
